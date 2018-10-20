@@ -1,11 +1,11 @@
 # Site settings
-author: LOI PHAT DINH
-title: 
+author: Loi Dinh
+title: An entrepreneur's journey to become a Full Stack Web Developer.
 header-img: img/home-bg.png
 email: liamphatdinh@gmail.com
-copyright_name: LOI PHAT DINH
+copyright_name: Loi Dinh
 description: > # this means to ignore newlines until "baseurl:"
-  
+  A dairy of how one learning to be a Web Developer 
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  LiamDinh
